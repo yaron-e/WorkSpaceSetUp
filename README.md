@@ -3,7 +3,11 @@ Try using `snap` to install new packages
 
 ### Install Snap
 ```bash
-sudo apt install snapd
+apt update
+apt upgrade -y
+
+apt install snapd
+sudo snap refresh
 ```
 Once Snap is installed, use the `snap.sh` script to install all of the software needed for a new workspace.
 
