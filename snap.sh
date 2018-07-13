@@ -1,3 +1,4 @@
+apt update
 sudo snap install spotify
 sudo snap install eclipse 
 sudo snap install android-studio 
