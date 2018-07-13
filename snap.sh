@@ -1,11 +1,11 @@
 sudo snap install spotify
-sudo snap install eclipse --channel 
-sudo snap install android-studio --channel 
-sudo snap install pycharm-community --channel 
-sudo snap install intellij-idea-community --channel 
-sudo snap install rubymine --channel 
-sudo snap install notepadqq --channel  
-sudo snap install skype --channel 
-sudo snap install vlc --channel 
-sudo snap install chromium --channel 
-sudo snap install simplenote-jamiebennett --channel 
+sudo snap install eclipse 
+sudo snap install android-studio 
+sudo snap install pycharm-community 
+sudo snap install intellij-idea-community
+sudo snap install rubymine 
+sudo snap install notepadqq 
+sudo snap install skype 
+sudo snap install vlc 
+sudo snap install chromium 
+sudo snap install simplenote-jamiebennett
