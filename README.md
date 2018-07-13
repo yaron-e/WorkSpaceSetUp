@@ -5,7 +5,7 @@ Try using `snap` to install new packages
 ```bash
 sudo apt install snapd
 ```
-Once Snap is installed, use the `snap.sh` script to install of the the software needed for a new workspace.
+Once Snap is installed, use the `snap.sh` script to install all of the software needed for a new workspace.
 
 
 [Complete List of all Snap applications](https://snapcraft.io/store)
@@ -21,52 +21,52 @@ sudo snap install spotify
 ```
 ### Install Eclipse
 ```shell
-sudo snap install eclipse --channel 
+sudo snap install eclipse
 ```
 
 ### Install Android Studio
 ```shell
-sudo snap install android-studio --channel 
+sudo snap install android-studio
 ```
 
 ### Install PyCharm Community Addition
 ```shell
-sudo snap install pycharm-community --channel 
+sudo snap install pycharm-community 
 ```
 
 ### Install InteliJ Community Addition
 ```shell
-sudo snap install intellij-idea-community --channel 
+sudo snap install intellij-idea-community  
 ```
 
 ### Install Ruby Mine Community Addition
 ```shell
-sudo snap install rubymine --channel 
+sudo snap install rubymine 
 ```
 
 ### Install Notepadqq
 ```shell
-sudo snap install rubymine --channel 
+sudo snap install rubymine 
 ```
 
 ### Install Skype
 ```shell
-sudo snap install skype --channel 
+sudo snap install skype
 ```
 
 ### Install VLC Media Player
 ```shell
-sudo snap install vlc --channel 
+sudo snap install vlc 
 ```
 
 ### Install Chromium 
 ```shell
-sudo snap install chromium --channel 
+sudo snap install chromium 
 ```
 
 ### Install SimpleNote
 ```shell
-sudo snap install simplenote-jamiebennett --channel 
+sudo snap install simplenote-jamiebennett 
 ```
 
 
