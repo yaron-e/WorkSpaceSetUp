@@ -3,6 +3,8 @@ Try using `snap` to install new packages
 
 ### Install Snap
 ```bash
+PATH=$PATH:/snap/bin
+
 apt update
 apt upgrade -y
 
