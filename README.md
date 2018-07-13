@@ -5,6 +5,7 @@ Try using `snap` to install new packages
 ```bash
 sudo apt install snapd
 ```
+Once Snap is installed, use the `snap.sh` script to install of the the software needed for a new workspace.
 
 
 [Complete List of all Snap applications](https://snapcraft.io/store)
