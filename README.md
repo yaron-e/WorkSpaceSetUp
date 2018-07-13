@@ -1,3 +1,76 @@
+# My Additions
+Try using `snap` to install new packages
+
+### Install Snap
+```bash
+sudo apt install snapd
+```
+
+
+[Complete List of all Snap applications](https://snapcraft.io/store)
+
+
+[Spotify Installation Guide](https://www.spotify.com/us/download/linux/)
+
+
+
+### Install Spotify
+```shell
+sudo snap install spotify
+```
+### Install Eclipse
+```shell
+sudo snap install eclipse --channel 
+```
+
+### Install Android Studio
+```shell
+sudo snap install android-studio --channel 
+```
+
+### Install PyCharm Community Addition
+```shell
+sudo snap install pycharm-community --channel 
+```
+
+### Install InteliJ Community Addition
+```shell
+sudo snap install intellij-idea-community --channel 
+```
+
+### Install Ruby Mine Community Addition
+```shell
+sudo snap install rubymine --channel 
+```
+
+### Install Notepadqq
+```shell
+sudo snap install rubymine --channel 
+```
+
+### Install Skype
+```shell
+sudo snap install skype --channel 
+```
+
+### Install VLC Media Player
+```shell
+sudo snap install skype --channel 
+```
+
+### Install Chromium 
+```shell
+sudo snap install skype --channel 
+```
+
+### Install SimpleNote
+```shell
+sudo snap install skype --channel 
+```
+
+
+
+
 # WorkSpaceSetUp
 Set of scripts which are designed to help users quickly install and configure a new computer with common applications such as eclipse, git, tomcat, nodejs, java, nautilus.
 
