@@ -55,17 +55,17 @@ sudo snap install skype --channel
 
 ### Install VLC Media Player
 ```shell
-sudo snap install skype --channel 
+sudo snap install vlc --channel 
 ```
 
 ### Install Chromium 
 ```shell
-sudo snap install skype --channel 
+sudo snap install chromium --channel 
 ```
 
 ### Install SimpleNote
 ```shell
-sudo snap install skype --channel 
+sudo snap install simplenote-jamiebennett --channel 
 ```
 
 
