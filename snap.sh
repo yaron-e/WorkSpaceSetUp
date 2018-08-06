@@ -11,3 +11,4 @@ sudo snap install skype
 sudo snap install vlc 
 sudo snap install chromium 
 sudo snap install simplenote-jamiebennett
+sudo snap install vscode --classic
